@@ -1,0 +1,6 @@
+esxi_server      = "192.168.100.248"
+esxi_user        = "root"
+esxi_password    = "root$$123"
+datastore_name   = "DS-LOCAL"
+network_name     = "VM Network"
+vm_name          = "testvm"
